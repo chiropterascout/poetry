@@ -78,7 +78,7 @@ all rise
 * [21](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/21.txt)
 * [22](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/22.txt)
 
-## [the laureate meditations](https://github.com/rosalindfdt/poetry/tree/master/the%20laureate%20meditations.txt)
+## [the laureate meditations](https://github.com/rosalindfdt/poetry/tree/master/the%20laureate%20meditations)
 * [consciousness waning](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/consciousness%20waning.txt)
 * [ghosts on tv.](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/ghosts%20on%20tv..txt)
 * [perilous mentality](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/perilous%20mentality.txt)
