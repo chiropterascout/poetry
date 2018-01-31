@@ -32,8 +32,6 @@ all rise
 
 **[it's still a drug](https://github.com/rosalindfdt/poetry/raw/master/it's%20still%20a%20drug.txt)**
 
-**[an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)**
-
 ## [the telegraph pole has spoke to me](https://github.com/rosalindfdt/poetry/tree/master/the%20telegraph%20pole%20has%20spoke%20to%20me)
 * [I used to feel](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/I%20used%20to%20feel.txt)
 * [\[message repeats\]](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/%5Bmessage%20repeats%5D.txt)
@@ -86,3 +84,7 @@ all rise
 * [perilous mentality](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/perilous%20mentality.txt)
 * [resolutions demanding](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/resolutions%20demanding.txt)
 * [wear the chest pain](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/wear%20the%20chest%20pain.txt)
+
+## [circa 2009](https://github.com/rosalindfdt/poetry/tree/master/circa%202009)
+[an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)
+[a followup letter to my rapist in the first person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/a%20followup%20letter%20to%20my%20rapist%20in%20the%20first%20person.txt)
