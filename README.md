@@ -86,5 +86,5 @@ all rise
 * [wear the chest pain](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/wear%20the%20chest%20pain.txt)
 
 ## [circa 2009](https://github.com/rosalindfdt/poetry/tree/master/circa%202009)
-[an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)
-[a followup letter to my rapist in the first person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/a%20followup%20letter%20to%20my%20rapist%20in%20the%20first%20person.txt)
+* [an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)
+* [a followup letter to my rapist in the first person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/a%20followup%20letter%20to%20my%20rapist%20in%20the%20first%20person.txt)
