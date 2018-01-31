@@ -31,7 +31,7 @@ all rise
 **[insertion point fugue](https://github.com/rosalindfdt/poetry/raw/master/insertion%20point%20fugue.txt)**
 
 **[it's still a drug](https://github.com/rosalindfdt/poetry/raw/master/it's%20still%20a%20drug.txt)**
-**[an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)
+**[an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)**
 
 ## [the telegraph pole has spoke to me](https://github.com/rosalindfdt/poetry/tree/master/the%20telegraph%20pole%20has%20spoke%20to%20me)
 * [I used to feel](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/I%20used%20to%20feel.txt)
