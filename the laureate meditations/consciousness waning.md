@@ -3,7 +3,7 @@ title: consciousness waning
 ---
 
 ## consiousness waning
-
+```
 time.
 
 to sleep?
@@ -68,3 +68,4 @@ now the twilight-+
 an ocean`~`
 
 better keep moving better keep moving
+```
