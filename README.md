@@ -1,3 +1,10 @@
+---
+title: poetry
+---
+
+* [insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)
+* [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
+
 ## [the telegraph pole has spoke to me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me)
 
 * [I used to feel](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/I used to feel)
@@ -66,9 +73,6 @@
 * [reminiscent of a broken girl](https://imogenerative.github.io/poetry/circa 2009/reminiscent of a broken girl)
 * [leave them in their grave](https://imogenerative.github.io/poetry/circa 2009/leave them in their grave)
 
-
-* [insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)
-* [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
 
 ```
 i understand now
