@@ -1,3 +1,10 @@
+---
+title: \[message repeats\]
+---
+
+## \[message repeats\]
+
+````
 swallow your soul
 swallowed whole
 i am the faceless guise of the urban primitive
@@ -27,3 +34,4 @@ ice age coming
 ice age coming
 ice age coming
 [message repeats]
+```
