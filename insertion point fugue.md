@@ -1,3 +1,10 @@
+---
+title: insertion point fugue
+---
+
+## insertion point fugue
+
+```
 i love you
 
 somehow
@@ -34,4 +41,4 @@ somehow
 
 
 i love you who are you
-
+```

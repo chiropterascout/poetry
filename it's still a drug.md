@@ -1,3 +1,10 @@
+---
+title: it's still a drug
+---
+
+## it's still a drug
+
+```
 the the more I try the worse it gets,
 the more I try to forget.
 
@@ -53,3 +60,4 @@ don't ever think it wasn't
 don't ever think
 
 again.
+```
