@@ -1,6 +1,6 @@
-## [the laureate meditations](https://github.com/rosalindfdt/poetry/tree/master/the%20laureate%20meditations)
-* [consciousness waning](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/consciousness%20waning.txt)
-* [ghosts on tv.](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/ghosts%20on%20tv..txt)
-* [perilous mentality](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/perilous%20mentality.txt)
-* [resolutions demanding](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/resolutions%20demanding.txt)
-* [wear the chest pain](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/wear%20the%20chest%20pain.txt)
+## the laureate meditations
+* [consciousness waning](https://imogenerative.github.io/poetry/the laureate meditations/consciousness waning.md)
+* [ghosts on tv.](https://imogenerative.github.io/poetry/the laureate meditations/ghosts on tv..md)
+* [perilous mentality](https://imogenerative.github.io/poetry/the laureate meditations/perilous mentality.md)
+* [resolutions demanding](https://imogenerative.github.io/poetry/the laureate meditations/resolutions demanding.md)
+* [wear the chest pain](https://imogenerative.github.io/poetry/the laureate meditations/wear the chest pain.md)

@@ -1,3 +1,5 @@
+## consiousness waning
+
 time.
 
 to sleep?
