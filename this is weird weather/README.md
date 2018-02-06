@@ -1,11 +1,21 @@
-## [this is weird weather](https://github.com/rosalindfdt/poetry/tree/master/this%20is%20weird%20weather)
-* [Art is anything you can get away with](https://raw.githubusercontent.com/rosalindfdt/poetry/master/this%20is%20weird%20weather/Art%20is%20anything%20you%20can%20get%20away%20with.txt)
-* [Don't constrain to the boundaries of time](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/Don't%20constrain%20to%20the%20boundaries%20of%20time.txt)
-* [Throw away plastic and think of the discoveries of future archeologists](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/Throw%20away%20plastic%20and%20think%20of%20the%20discoveries%20of%20future%20archeologists.txt)
-* [We can't rebuild it don't break it](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/We%20can't%20rebuild%20it%20don't%20break%20it.txt)
-* [You are a target market](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/You%20are%20a%20target%20market.txt)
-* [Your call my be monitored, or recorded](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/Your%20call%20my%20be%20monitored%2C%20or%20recorded.txt)
-* [anti-depressants are a bad idea, what is wrong is not in here](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/anti-depressants%20are%20a%20bad%20idea%2C%20what%20is%20wrong%20is%20not%20in%20here.txt)
-* [the more i try the worse it gets](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/the%20more%20i%20try%20the%20worse%20it%20gets.txt)
-* [wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/wE%20ALL%20HAVE%20THE%20SAME%20RIGHTS%20BUT%20NOT%20EQUAL%20ACCESS%20TO%20THEM.txt)
-* [where is my mind](https://raw.githubusercontent.com/rosalindfdt/poetry/master/this%20is%20weird%20weather/where%20is%20my%20mind.txt)
+## this is weird weather
+
+[Art is anything you can get away with](https://imogenerative.github.io/poetry/this is weird weather/Art is anything you can get away with)
+
+[Don't constrain to the boundaries of time](https://imogenerative.github.io/poetry/this is weird weather/Don't constrain to the boundaries of time)
+
+[Throw away plastic and think of the discoveries of future archeologists](https://imogenerative.github.io/poetry/this is weird weather/Throw away plastic and think of the discoveries of future archeologists)
+
+[We can't rebuild it don't break it](https://imogenerative.github.io/poetry/this is weird weather/We can't rebuild it don't break it)
+
+[You are a target market](https://imogenerative.github.io/poetry/this is weird weather/You are a target market)
+
+[Your call my be monitored, or recorded](https://imogenerative.github.io/poetry/this is weird weather/Your call my be monitored or recorded)
+
+[anti-depressants are a bad idea, what is wrong is not in here](https://imogenerative.github.io/poetry/this is weird weather/anti-depressants are a bad idea%2C what is wrong is not in here)
+
+[the more i try the worse it gets](https://imogenerative.github.io/poetry/this is weird weather/the more i try the worse it gets)
+
+[wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM](https://imogenerative.github.io/poetry/this is weird weather/wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM)
+
+[where is my mind](https://imogenerative.github.io/poetry/this is weird weather/where is my mind)
