@@ -1,8 +1,8 @@
 ## github poetry
 
+**[random sort](https://imogenerative.github.io/poetry/random sort)**
 * [insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)
 * [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
-* **[random sort](https://imogenerative.github.io/poetry/random sort)**
 
 
 ## [the telegraph pole has spoke to me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me)
