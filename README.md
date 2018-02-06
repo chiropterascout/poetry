@@ -1,6 +1,4 @@
----
-title: poetry
----
+## github poetry
 
 * [insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)
 * [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
