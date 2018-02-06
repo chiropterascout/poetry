@@ -1,5 +1,10 @@
+---
+title: wear the chest pain
+---
+
 ## wear the chest pain
 
+```
 i live. a home?
 
 yes.
@@ -37,3 +42,4 @@ no.
 empty words. within. the truth is within.
 
 a home?
+```

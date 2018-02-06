@@ -1,5 +1,10 @@
+---
+title: perilous mentality
+---
+
 ## perilous mentality
 
+```
 everything
 nothing
 do you really know?
@@ -47,3 +52,4 @@ they are watching always watching
 you call is on hold, forever
 
 never hang up never hang up never hang up
+```

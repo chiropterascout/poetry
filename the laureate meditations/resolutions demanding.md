@@ -1,5 +1,10 @@
+---
+title: resolutions demanding
+---
+
 ## resolutions demanding
 
+```
 i thought i knew
 
 no
@@ -84,3 +89,4 @@ reflecting
 
 
 step into the mirror
+```
