@@ -67,9 +67,8 @@
 * [leave them in their grave](https://imogenerative.github.io/poetry/circa 2009/leave them in their grave)
 
 
-**[insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)**
-
-**[it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)**
+* [insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)
+* [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
 
 ```
 i understand now
