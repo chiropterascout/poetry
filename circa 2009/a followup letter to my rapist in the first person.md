@@ -1,5 +1,10 @@
+---
+title: a followup letter to my rapist in the first person
+---
+
 ## a followup letter to my rapist in the first person
 
+```
 regarding our previous communication:
 
 fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you
@@ -96,3 +101,4 @@ I thought I
 
           I think I knew this
           all the time.
+```
