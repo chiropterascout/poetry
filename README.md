@@ -1,3 +1,66 @@
+## [the telegraph pole has spoke to me](https://github.com/rosalindfdt/poetry/tree/master/the telegraph pole has spoke to me)
+* [I used to feel](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/I used to feel)
+* [\[message repeats\]](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/%5Bmessage repeats%5D)
+* [it's happening](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/it's happening) 
+* [lights fade](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/lights fade) 
+* [she reflects](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/she reflects)
+* [touch me taste me breathe me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/touch_me)
+* [untitled01](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/untitled01)
+* [urban focus](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/urban focus)
+
+## [this is weird weather](https://github.com/rosalindfdt/poetry/tree/master/this is weird weather)
+* [Art is anything you can get away with](https://imogenerative.github.io/poetry/this is weird weather/Art is anything you can get away with)
+* [Don't constrain to the boundaries of time](https://imogenerative.github.io/poetry/this is weird weather/Don't constrain to the boundaries of time)
+* [Throw away plastic and think of the discoveries of future archeologists](https://imogenerative.github.io/poetry/this is weird weather/Throw away plastic and think of the discoveries of future archeologists)
+* [We can't rebuild it don't break it](https://imogenerative.github.io/poetry/this is weird weather/We can't rebuild it don't break it)
+* [You are a target market](https://imogenerative.github.io/poetry/this is weird weather/You are a target market)
+* [Your call my be monitored, or recorded](https://imogenerative.github.io/poetry/this is weird weather/Your call my be monitored%2C or recorded)
+* [anti-depressants are a bad idea, what is wrong is not in here](https://imogenerative.github.io/poetry/this is weird weather/anti-depressants are a bad idea%2C what is wrong is not in here)
+* [the more i try the worse it gets](https://imogenerative.github.io/poetry/this is weird weather/the more i try the worse it gets)
+* [wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM](https://imogenerative.github.io/poetry/this is weird weather/wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM)
+* [where is my mind](https://imogenerative.github.io/poetry/this is weird weather/where is my mind)
+
+## [focus intermittent](https://github.com/rosalindfdt/poetry/tree/master/focus intermittent)
+* [01](https://imogenerative.github.io/poetry/focus intermittent/01)
+* [02](https://imogenerative.github.io/poetry/focus intermittent/02)
+* [03](https://imogenerative.github.io/poetry/focus intermittent/03)
+* [04](https://imogenerative.github.io/poetry/focus intermittent/04)
+* [05](https://imogenerative.github.io/poetry/focus intermittent/05)
+* [06](https://imogenerative.github.io/poetry/focus intermittent/06)
+* [07](https://imogenerative.github.io/poetry/focus intermittent/07)
+* [08](https://imogenerative.github.io/poetry/focus intermittent/08)
+* [09](https://imogenerative.github.io/poetry/focus intermittent/09)
+* [10](https://imogenerative.github.io/poetry/focus intermittent/10)
+* [11](https://imogenerative.github.io/poetry/focus intermittent/11)
+* [12](https://imogenerative.github.io/poetry/focus intermittent/12)
+* [13](https://imogenerative.github.io/poetry/focus intermittent/13)
+* [14](https://imogenerative.github.io/poetry/focus intermittent/14)
+* [15](https://imogenerative.github.io/poetry/focus intermittent/15)
+* [16](https://imogenerative.github.io/poetry/focus intermittent/16)
+* [17](https://imogenerative.github.io/poetry/focus intermittent/17)
+* [18](https://imogenerative.github.io/poetry/focus intermittent/18)
+* [19](https://imogenerative.github.io/poetry/focus intermittent/19)
+* [20](https://imogenerative.github.io/poetry/focus intermittent/20)
+* [21](https://imogenerative.github.io/poetry/focus intermittent/21)
+* [22](https://imogenerative.github.io/poetry/focus intermittent/22)
+
+## [the laureate meditations](https://imogenerative.github.io/poetry/the laureate meditations)
+* [consciousness waning](https://imogenerative.github.io/poetry/the laureate meditations/consciousness waning)
+* [ghosts on tv.](https://imogenerative.github.io/poetry/the laureate meditations/ghosts on tv.)
+* [perilous mentality](https://imogenerative.github.io/poetry/the laureate meditations/perilous mentality)
+* [resolutions demanding](https://imogenerative.github.io/poetry/the laureate meditations/resolutions demanding)
+* [wear the chest pain](https://imogenerative.github.io/poetry/the laureate meditations/wear the chest pain)
+
+## [circa 2009](https://imogenerative.github.io/poetry/circa 2009)
+* [an open letter to my rapist in the third person](https://imogenerative.github.io/poetry/circa 2009/an open letter to my rapist in the third person)
+* [a followup letter to my rapist in the first person](https://imogenerative.github.io/poetry/circa 2009/a followup letter to my rapist in the first person)
+* [reminiscent of a broken girl](https://imogenerative.github.io/poetry/circa 2009/reminiscent of a broken girl)
+* [leave them in their grave](https://imogenerative.github.io/poetry/circa 2009/leave them in their grave)
+
+**[insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)**
+
+**[it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)**
+
 ```
 i understand now
 i had a dream about his house
@@ -27,66 +90,3 @@ the invigilator is dead
 take the stand
 all rise
 ```
-
-**[insertion point fugue](https://github.com/rosalindfdt/poetry/raw/master/insertion%20point%20fugue.txt)**
-
-**[it's still a drug](https://github.com/rosalindfdt/poetry/raw/master/it's%20still%20a%20drug.txt)**
-
-## [the telegraph pole has spoke to me](https://github.com/rosalindfdt/poetry/tree/master/the%20telegraph%20pole%20has%20spoke%20to%20me)
-* [I used to feel](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/I%20used%20to%20feel.txt)
-* [\[message repeats\]](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/%5Bmessage%20repeats%5D.txt)
-* [it's happening](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/it's%20happening.txt) 
-* [lights fade](https://github.com/rosalindfdt/poetry/raw/master/the%20telegraph%20pole%20has%20spoke%20to%20me/lights%20fade.txt) 
-* [she reflects](https://github.com/rosalindfdt/poetry/raw/master/the%20telegraph%20pole%20has%20spoke%20to%20me/she%20reflects.txt)
-* [touch me taste me breathe me](https://raw.githubusercontent.com/rosalindfdt/poetry/master/the%20telegraph%20pole%20has%20spoke%20to%20me/touch_me.txt)
-* [untitled01](https://github.com/rosalindfdt/poetry/raw/master/the%20telegraph%20pole%20has%20spoke%20to%20me/untitled01.txt)
-* [urban focus](https://github.com/rosalindfdt/poetry/raw/master/the%20telegraph%20pole%20has%20spoke%20to%20me/urban%20focus.txt)
-
-## [this is weird weather](https://github.com/rosalindfdt/poetry/tree/master/this%20is%20weird%20weather)
-* [Art is anything you can get away with](https://raw.githubusercontent.com/rosalindfdt/poetry/master/this%20is%20weird%20weather/Art%20is%20anything%20you%20can%20get%20away%20with.txt)
-* [Don't constrain to the boundaries of time](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/Don't%20constrain%20to%20the%20boundaries%20of%20time.txt)
-* [Throw away plastic and think of the discoveries of future archeologists](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/Throw%20away%20plastic%20and%20think%20of%20the%20discoveries%20of%20future%20archeologists.txt)
-* [We can't rebuild it don't break it](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/We%20can't%20rebuild%20it%20don't%20break%20it.txt)
-* [You are a target market](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/You%20are%20a%20target%20market.txt)
-* [Your call my be monitored, or recorded](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/Your%20call%20my%20be%20monitored%2C%20or%20recorded.txt)
-* [anti-depressants are a bad idea, what is wrong is not in here](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/anti-depressants%20are%20a%20bad%20idea%2C%20what%20is%20wrong%20is%20not%20in%20here.txt)
-* [the more i try the worse it gets](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/the%20more%20i%20try%20the%20worse%20it%20gets.txt)
-* [wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM](https://github.com/rosalindfdt/poetry/raw/master/this%20is%20weird%20weather/wE%20ALL%20HAVE%20THE%20SAME%20RIGHTS%20BUT%20NOT%20EQUAL%20ACCESS%20TO%20THEM.txt)
-* [where is my mind](https://raw.githubusercontent.com/rosalindfdt/poetry/master/this%20is%20weird%20weather/where%20is%20my%20mind.txt)
-
-## [focus intermittent](https://github.com/rosalindfdt/poetry/tree/master/focus%20intermittent)
-* [01](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/01.txt)
-* [02](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/02.txt)
-* [03](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/03.txt)
-* [04](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/04.txt)
-* [05](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/05.txt)
-* [06](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/06.txt)
-* [07](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/07.txt)
-* [08](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/08.txt)
-* [09](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/09.txt)
-* [10](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/10.txt)
-* [11](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/11.txt)
-* [12](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/12.txt)
-* [13](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/13.txt)
-* [14](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/14.txt)
-* [15](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/15.txt)
-* [16](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/16.txt)
-* [17](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/17.txt)
-* [18](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/18.txt)
-* [19](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/19.txt)
-* [20](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/20.txt)
-* [21](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/21.txt)
-* [22](https://github.com/rosalindfdt/poetry/raw/master/focus%20intermittent/22.txt)
-
-## [the laureate meditations](https://github.com/rosalindfdt/poetry/tree/master/the%20laureate%20meditations)
-* [consciousness waning](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/consciousness%20waning.txt)
-* [ghosts on tv.](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/ghosts%20on%20tv..txt)
-* [perilous mentality](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/perilous%20mentality.txt)
-* [resolutions demanding](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/resolutions%20demanding.txt)
-* [wear the chest pain](https://github.com/rosalindfdt/poetry/raw/master/the%20laureate%20meditations/wear%20the%20chest%20pain.txt)
-
-## [circa 2009](https://github.com/rosalindfdt/poetry/tree/master/circa%202009)
-* [an open letter to my rapist in the third person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person.txt)
-* [a followup letter to my rapist in the first person](https://github.com/rosalindfdt/poetry/raw/master/circa%202009/a%20followup%20letter%20to%20my%20rapist%20in%20the%20first%20person.txt)
-* [reminiscent of a broken girl](https://raw.githubusercontent.com/rosalindfdt/poetry/master/circa%202009/reminiscent%20of%20a%20broken%20girl.txt)
-* [leave them in their grave](https://raw.githubusercontent.com/rosalindfdt/poetry/master/circa%202009/leave%20them%20in%20their%20grave.txt)
