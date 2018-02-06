@@ -4,6 +4,8 @@ title: poetry
 
 * [insertion point fugue](https://imogenerative.github.io/poetry/insertion point fugue)
 * [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
+* **[random sort](https://imogenerative.github.io/poetry/random sort)**
+
 
 ## [the telegraph pole has spoke to me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me)
 
@@ -72,34 +74,3 @@ title: poetry
 * [a followup letter to my rapist in the first person](https://imogenerative.github.io/poetry/circa 2009/a followup letter to my rapist in the first person)
 * [reminiscent of a broken girl](https://imogenerative.github.io/poetry/circa 2009/reminiscent of a broken girl)
 * [leave them in their grave](https://imogenerative.github.io/poetry/circa 2009/leave them in their grave)
-
-
-```
-i understand now
-i had a dream about his house
-it was boarded up
-abandoned
-overgrown with weeds and trees
-```
-
-```
-incubate yesterday
-```
-
-```
-skeletons in the piano, dancing bones echoing. solitude.
-```
-
-```
-hope in the denial of reality
-```
-
-```
-falling into the walls
-your eyes have exploded
-
-the invigilator is dead
-
-take the stand
-all rise
-```
