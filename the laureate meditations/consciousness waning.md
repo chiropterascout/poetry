@@ -1,6 +1,7 @@
 ---
 title: consciousness waning
 ---
+
 ## consiousness waning
 
 time.
