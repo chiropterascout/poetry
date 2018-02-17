@@ -26,7 +26,7 @@
 
 * [Art is anything you can get away with](https://imogenerative.github.io/poetry/this is weird weather/Art is anything you can get away with)
 * [Don't constrain to the boundaries of time](https://imogenerative.github.io/poetry/this is weird weather/Don't constrain to the boundaries of time)
-*[Throw away plastic and think of the discoveries of future archeologists](https://imogenerative.github.io/poetry/this is weird weather/Throw away plastic and think of the discoveries of future archeologists)
+* [Throw away plastic and think of the discoveries of future archeologists](https://imogenerative.github.io/poetry/this is weird weather/Throw away plastic and think of the discoveries of future archeologists)
 * [We can't rebuild it don't break it](https://imogenerative.github.io/poetry/this is weird weather/We can't rebuild it don't break it)
 * [You are a target market](https://imogenerative.github.io/poetry/this is weird weather/You are a target market)
 * [Your call my be monitored, or recorded](https://imogenerative.github.io/poetry/this is weird weather/Your call my be monitored%2C or recorded)
