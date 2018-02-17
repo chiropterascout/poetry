@@ -4,6 +4,7 @@ title: sae me from my thoughts
 
 ## save me from my thoughts
 
+```
 save me from my thoughts
     and the darkness
     and the hurt they cause
@@ -85,3 +86,4 @@ save me from these delusions
 and I'll hold onto what's real
 
 save me from myself while I remember how to feel
+```
