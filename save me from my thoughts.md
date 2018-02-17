@@ -1,5 +1,5 @@
 ---
-title: sae me from my thoughts
+title: save me from my thoughts
 ---
 
 ## save me from my thoughts
