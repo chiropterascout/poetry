@@ -22,7 +22,7 @@ and the sense that these delusions
     that one day
     I'll forget
     
-that none of thus is real
+that none of this is real
 that none of this is true
 
 that nothing that my thoughts say
