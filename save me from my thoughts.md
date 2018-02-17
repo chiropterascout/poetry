@@ -1,9 +1,10 @@
 ---
-title: sae me from my thoughts
+title: save me from my thoughts
 ---
 
 ## save me from my thoughts
 
+```
 save me from my thoughts
     and the darkness
     and the hurt they cause
@@ -21,7 +22,7 @@ and the sense that these delusions
     that one day
     I'll forget
     
-that none of thus is real
+that none of this is real
 that none of this is true
 
 that nothing that my thoughts say
@@ -85,3 +86,4 @@ save me from these delusions
 and I'll hold onto what's real
 
 save me from myself while I remember how to feel
+```
