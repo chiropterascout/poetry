@@ -11,6 +11,12 @@
 
 ---
 
+## [dissociation 2017](https://imogenerative.github.io/poetry/dissociation 2017)
+
+* [at a loss for meaning](https://imogenerative.github.io/poetry/at a loss for meaning)
+
+---
+
 ## [the telegraph pole has spoke to me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me)
 
 * [I used to feel](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/I used to feel)
