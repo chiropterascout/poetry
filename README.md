@@ -13,7 +13,8 @@
 
 ## [dissociation 2017](https://imogenerative.github.io/poetry/dissociation 2017)
 
-* [at a loss for meaning](https://imogenerative.github.io/poetry/at a loss for meaning)
+* [at a loss for meaning](https://imogenerative.github.io/poetry/dissociation 2017/at a loss for meaning)
+* [you know but you never know](https://imogenerative.github.io/poetry/dissociation 2017/you know but you never know)
 
 ---
 
@@ -24,7 +25,7 @@
 * [it's happening](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/it's happening)
 * [lights fade](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/lights fade) 
 * [she reflects](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/she reflects)
-* [touch me taste me breathe me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/touch_me)
+* [touch me taste me breathe me](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/touch me taste me breathe me)
 * [untitled01](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/untitled01)
 * [urban focus](https://imogenerative.github.io/poetry/the telegraph pole has spoke to me/urban focus)
 
