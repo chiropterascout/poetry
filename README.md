@@ -8,6 +8,7 @@
 * [it's still a drug](https://imogenerative.github.io/poetry/it's still a drug)
 * [save me from my thoughts](https://imogenerative.github.io/poetry/save me from my thoughts)
 * [sometimes I worry you'll be gone](https://imogenerative.github.io/poetry/sometimes I worry you'll be gone)
+* [now](https://imogenerative.github.io/poetry/now)
 
 ---
 
