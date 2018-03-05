@@ -69,7 +69,7 @@ you never know
 
 you know but you never know
 that I know
-thai I know no
+that I know no
 
 it doesn't mean a thing
 at all
