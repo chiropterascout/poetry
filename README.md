@@ -15,9 +15,9 @@
 
 ## the substance of love
 
-* [touch me taste me breathe me](https://chiropterascout.github.io/poetry/the telegraph pole has spoke to me/touch me taste me breathe me)
-* [it's still a drug](https://chiropterascout.github.io/poetry/it's still a drug)
-* ever seeking ever needing
+* *[touch me taste me breathe me](https://chiropterascout.github.io/poetry/the telegraph pole has spoke to me/touch me taste me breathe me)*
+* *[it's still a drug](https://chiropterascout.github.io/poetry/it's still a drug)*
+* *ever seeking ever needing*
 
 ---
 
