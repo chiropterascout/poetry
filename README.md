@@ -14,7 +14,6 @@
 ---
 
 ## the substance of love
-scoutquinn
 * *[touch me taste me breathe me](https://scoutquinn.github.io/poetry/the telegraph pole has spoke to me/touch me taste me breathe me)*
 * *[it's still a drug](https://scoutquinn.github.io/poetry/it's still a drug)*
 * *ever seeking ever needing*
