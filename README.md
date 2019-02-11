@@ -39,6 +39,7 @@
 * [untitled01](https://scoutquinn.github.io/poetry/the telegraph pole has spoke to me/untitled01)
 * [urban focus](https://scoutquinn.github.io/poetry/the telegraph pole has spoke to me/urban focus)
 
+---
 
 ## [this is weird weather](https://scoutquinn.github.io/poetry/this is weird weather)
 
@@ -53,6 +54,7 @@
 * [wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM](https://scoutquinn.github.io/poetry/this is weird weather/wE ALL HAVE THE SAME RIGHTS BUT NOT EQUAL ACCESS TO THEM)
 * [where is my mind](https://scoutquinn.github.io/poetry/this is weird weather/where is my mind)
 
+---
 
 ## [focus intermittent](https://scoutquinn.github.io/poetry/focus intermittent)
 
@@ -79,6 +81,7 @@
 * [21](https://scoutquinn.github.io/poetry/focus intermittent/21)
 * [22](https://scoutquinn.github.io/poetry/focus intermittent/22)
 
+---
 
 ## [the laureate meditations](https://scoutquinn.github.io/poetry/the laureate meditations)
 
@@ -88,10 +91,11 @@
 * [resolutions demanding](https://scoutquinn.github.io/poetry/the laureate meditations/resolutions demanding)
 * [wear the chest pain](https://scoutquinn.github.io/poetry/the laureate meditations/wear the chest pain)
 
+---
 
 ## [circa 2009](https://scoutquinn.github.io/poetry/circa 2009)
 
-**CONTENT WARNING: SEXUAL ASSAULT**
+## **CONTENT WARNING: SEXUAL ASSAULT**
 
 * [an open letter to my rapist in the third person](https://scoutquinn.github.io/poetry/circa 2009/an open letter to my rapist in the third person)
 * [a followup letter to my rapist in the first person](https://scoutquinn.github.io/poetry/circa 2009/a followup letter to my rapist in the first person)
