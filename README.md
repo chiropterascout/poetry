@@ -9,7 +9,7 @@
 * [save me from my thoughts](https://scoutquinn.github.io/poetry/save me from my thoughts)
 * [sometimes I worry you'll be gone](https://scoutquinn.github.io/poetry/sometimes I worry you'll be gone)
 * [now](https://scoutquinn.github.io/poetry/now)
-* [an in](https://scoutquinn.github.io/poetry/an in) ***THIS IS THE WORST THING I'VE EVER WRITTEN***
+* [an in](https://scoutquinn.github.io/poetry/an in) ***THIS IS THE WORST THING I'VE EVER WRITTEN YOU KNOW WHO YOU ARE AND I'M SORRY***
 
 ---
 
